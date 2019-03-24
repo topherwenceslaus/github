@@ -1,4 +1,4 @@
-Simple Github clone issue viewer
+Simple Github clone issues viewer
 
 #REACT
 #REDUX
